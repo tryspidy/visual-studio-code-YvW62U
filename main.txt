@@ -1,0 +1,8 @@
+Visual Studio Code is definitely the tool you may want to consider if you use
+products such as Atom, Sublime Text and so on. As a lot of people is using it,
+you will probably find someone supporting you in case you need help. 
+Microsoft also does offer a lot of documentation and support channels. 
+If you're still not using this, consider doing the switch now!
+
+Download Visual Studio Code: https://code.visualstudio.com/download
+Documentation: https://code.visualstudio.com/docs
